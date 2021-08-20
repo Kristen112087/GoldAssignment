@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe", "01_Cafe\01_Cafe.csproj", "{32839885-4F82-4E3F-BCF7-85A63FF98AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Claims", "..\02_Claims\02_Claims.csproj", "{DB618921-E537-4B4D-AB09-78A049065F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_BBQ", "..\03_BBQ\03_BBQ.csproj", "{9B21A5D5-3B05-4F11-80DC-27316726438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32839885-4F82-4E3F-BCF7-85A63FF98AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32839885-4F82-4E3F-BCF7-85A63FF98AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32839885-4F82-4E3F-BCF7-85A63FF98AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32839885-4F82-4E3F-BCF7-85A63FF98AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB618921-E537-4B4D-AB09-78A049065F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB618921-E537-4B4D-AB09-78A049065F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB618921-E537-4B4D-AB09-78A049065F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB618921-E537-4B4D-AB09-78A049065F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B21A5D5-3B05-4F11-80DC-27316726438B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B21A5D5-3B05-4F11-80DC-27316726438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B21A5D5-3B05-4F11-80DC-27316726438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B21A5D5-3B05-4F11-80DC-27316726438B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1899FF-38BD-43C6-8073-F76468FFDDF3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\GoldBadgeFinalAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\GoldBadgeFinalAssignment\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\GoldBadgeFinalAssignment\ClassLibrary1\obj\Debug\CafeClassLibrary.csproj.AssemblyReference.cache
+C:\GoldBadgeFinalAssignment\ClassLibrary1\obj\Debug\CafeClassLibrary.csproj.CoreCompileInputs.cache
+C:\GoldBadgeFinalAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\GoldBadgeFinalAssignment\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
